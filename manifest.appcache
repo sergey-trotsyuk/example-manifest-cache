@@ -1,0 +1,17 @@
+CACHE MANIFEST
+# v1
+
+CACHE:
+/
+index.js
+index.css
+another.html
+another.js
+another.css
+
+NETWORK:
+*
+
+FALLBACK:
+# In order to check open /no-cache-url
+/ /offline.html
